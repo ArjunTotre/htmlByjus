@@ -1,0 +1,19 @@
+
+h2{color:blueviolet}
+.header{
+    background-color:crimson;
+    display: flex;
+    justify-content: space-between;
+}
+*{border:none}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}       
+p, h2{text-align: center;}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
